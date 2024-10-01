@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Stock-000001366        Stock-000001366]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000003112      Supplier-00000003112]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000005655      Customer-00000005655]]>
+    </line>
+    <line>
+      <![CDATA[Purchase-00000000146      Purchase-00000000146]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-10T15:26:45 IST" name="Default suite" finished-at="2024-05-10T15:28:55 IST" duration-ms="129887">
+    <groups>
+    </groups>
+    <test started-at="2024-05-10T15:26:45 IST" name="Default test" finished-at="2024-05-10T15:28:55 IST" duration-ms="129887">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickStrat()[pri:0, instance:driverFactory.AppTest@131774fe]" started-at="2024-05-10T15:26:45 IST" name="kickStrat" finished-at="2024-05-10T15:28:55 IST" duration-ms="129391" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Stock-000001366        Stock-000001366]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000003112      Supplier-00000003112]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000005655      Customer-00000005655]]>
+            </line>
+            <line>
+              <![CDATA[Purchase-00000000146      Purchase-00000000146]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStrat -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
